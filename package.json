@@ -1,0 +1,31 @@
+{
+  "name": "Instagrambot",
+  "version": "1.0.0",
+  "description": "Instagrambot is a high-performance system developed with JavaScript to create a bot for Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+thttps://github.com/Aghorii001/Instagrambot.git"
+  },
+  "keywords": [
+    "instagram",
+    "instagram-bot",
+    "bot",
+    "automation",
+    "venom-bot",
+    "venom",
+    "instagram-automation"
+  ],
+  "author": "Ravii",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com//Aghorii001/Instagrambot/issues"
+  },
+  "homepage": "https://github.com//Aghorii001/Instagrambot#readme"
+}
